@@ -1,0 +1,13 @@
+C:\Users\ahmed\source\repos\Advance operating system\Advance operating system\bin\Debug\Advance operating system.exe.config
+C:\Users\ahmed\source\repos\Advance operating system\Advance operating system\bin\Debug\Advance operating system.exe
+C:\Users\ahmed\source\repos\Advance operating system\Advance operating system\bin\Debug\Advance operating system.pdb
+C:\Users\ahmed\source\repos\Advance operating system\Advance operating system\obj\Debug\Advance operating system.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\Advance operating system\Advance operating system\obj\Debug\Advance_operating_system.Form1.resources
+C:\Users\ahmed\source\repos\Advance operating system\Advance operating system\obj\Debug\Advance_operating_system.Properties.Resources.resources
+C:\Users\ahmed\source\repos\Advance operating system\Advance operating system\obj\Debug\Advance operating system.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\Advance operating system\Advance operating system\obj\Debug\Advance operating system.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Advance operating system\Advance operating system\obj\Debug\Advance operating system.exe
+C:\Users\ahmed\source\repos\Advance operating system\Advance operating system\obj\Debug\Advance operating system.pdb
+C:\Users\ahmed\source\repos\Advance operating system\Advance operating system\obj\Debug\Advance_operating_system.FCFS.resources
+C:\Users\ahmed\source\repos\Advance operating system\Advance operating system\obj\Debug\Advance_operating_system.SCAN.resources
+C:\Users\ahmed\source\repos\Advance operating system\Advance operating system\obj\Debug\Advance_operating_system.C_SCAN.resources
